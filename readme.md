@@ -6,3 +6,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+positioning: absolute, relative, static, sticky, fixed
+
+.box-$*3
+
+img[src="https://picsum.photos/id/$/200]*4
