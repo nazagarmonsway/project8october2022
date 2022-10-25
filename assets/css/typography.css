@@ -1,0 +1,15 @@
+/* .header {
+    color: blue;
+} */
+
+[class="header"]{
+    color: aqua;
+}
+
+[src="https://picsum.photos/id/1/200"]{
+    border-radius: 50%;
+}
+
+[href="./about.html"]{
+    background-color: blueviolet;
+}
