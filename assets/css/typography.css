@@ -1,15 +1,30 @@
-/* .header {
-    color: blue;
-} */
-
-[class="header"]{
-    color: aqua;
+@font-face {
+  font-family: montserrat;
+  src: url("../fonts/Montserrat-VariableFont_wght.ttf");
 }
 
-[src="https://picsum.photos/id/1/200"]{
-    border-radius: 50%;
+@font-face {
+  font-family: caveat;
+  src: url(../fonts/Caveat-VariableFont_wght.ttf);
 }
 
-[href="./about.html"]{
-    background-color: blueviolet;
+h1 {
+  font-family: caveat;
+  font-weight: 100;
+  font-variant: small-caps;
 }
+
+p {
+  font-family: caveat;
+  font-size: 2em;
+}
+
+h3{
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+h4{font-family: 'Bebas Neue', cursive;
+    font-variant: small-caps;
+}
+
+

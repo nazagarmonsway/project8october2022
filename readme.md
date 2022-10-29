@@ -15,3 +15,5 @@ img[src="https://picsum.photos/id/$/200]*4
 
 /* top, right, bottom, and left , z-index can be used for positioning, default is 0*/
 higher z-index comes forward, lower goes back 
+
+https://fonts.google.com/
